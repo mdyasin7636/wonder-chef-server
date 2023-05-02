@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.ibb.co/DfSjNdV/Philippe-Etchebest.jpg",
+    "chef_name": "Philippe Etchebest",
+    "experience": "27 Years",
+    "recipes_number": 20,
+    "likes": 60000,
+    "bio": "Philippe Etchebest is a French chef and television personality. He has been awarded two Michelin stars for his cooking and has hosted several cooking shows on French television.",
+    "recipes": [
+        {
+          "name": "Coq au Vin",
+          "ingredients": [
+            "Chicken",
+            "Bacon",
+            "Mushrooms",
+            "Onion",
+            "Garlic"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. In a large Dutch oven or oven-safe pot, cook the bacon over medium heat until crispy. 3. Remove the bacon with a slotted spoon and set aside. 4. Season the chicken with salt and pepper and add it to the pot with the bacon fat. Brown the chicken on all sides, about 5 minutes per side. 5. Remove the chicken and set aside. 6. Add the mushrooms, onions, and garlic to the pot and cook until softened, about 5 minutes. 7. Add the bacon back to the pot and stir to combine. 8. Add the chicken back to the pot and pour in enough red wine to cover the chicken. 9. Add the chicken broth, thyme, and bay leaves. 10. Cover the pot and bake in the oven for 2-2.5 hours, until the chicken is tender."
+        },
+        {
+          "name": "Beef Bourguignon",
+          "ingredients": [
+            "Beef",
+            "Carrots",
+            "Onion",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. Cut the beef into 1-inch pieces and season with salt and pepper. 3. Heat some oil in a Dutch oven or oven-safe pot over medium-high heat. Brown the beef in batches, about 5-7 minutes per batch. Remove the beef and set aside. 4. Add the onions and carrots to the pot and cook until the onions are softened, about 5 minutes. 5. Add the garlic and cook for another minute. 6. Add the beef back to the pot and pour in enough red wine to cover the beef. 7. Add the beef broth, thyme, and bay leaves. 8. Cover the pot and bake in the oven for 2.5-3 hours, until the beef is tender. 9. Saute the mushrooms in a separate pan until golden brown. 10. Add the mushrooms to the pot and serve hot."
+        },
+        {
+          "name": "Ratatouille",
+          "ingredients": [
+            "Eggplant",
+            "Zucchini",
+            "Bell Pepper",
+            "Onion",
+            "Tomatoes"
+          ],
+          "cookingMethod": "1. Preheat the oven to 375°F (190°C). 2. Slice the eggplant, zucchini, bell pepper, and onion into 1/4-inch slices. 3. Slice the tomatoes into 1/2-inch slices. 4. Arrange the sliced vegetables in a baking dish in a spiral pattern, starting from the outside and working your way in. 5. Drizzle some olive oil over the vegetables and season with salt and pepper. 6. Cover the baking dish with foil and bake in the oven for 45 minutes. 7. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and lightly browned. 8. Serve hot or at room temperature."
+        }
+      ],
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/3rKg4yb/Dominique-Ansel.jpg",
+    "chef_name": "Dominique Ansel",
+    "experience": "33 Years",
+    "recipes_number": 26,
+    "likes": 75000,
+    "bio": "Dominique Ansel is a French-born pastry chef and inventor of the cronut, a croissant-doughnut hybrid pastry. He has won numerous awards for his pastry creations and has been named World's Best Pastry Chef by the World's 50 Best Restaurants.",
+    "recipes": [
+        {
+          "name": "Coq au Vin",
+          "ingredients": [
+            "Chicken",
+            "Bacon",
+            "Mushrooms",
+            "Onion",
+            "Garlic"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. In a large Dutch oven or oven-safe pot, cook the bacon over medium heat until crispy. 3. Remove the bacon with a slotted spoon and set aside. 4. Season the chicken with salt and pepper and add it to the pot with the bacon fat. Brown the chicken on all sides, about 5 minutes per side. 5. Remove the chicken and set aside. 6. Add the mushrooms, onions, and garlic to the pot and cook until softened, about 5 minutes. 7. Add the bacon back to the pot and stir to combine. 8. Add the chicken back to the pot and pour in enough red wine to cover the chicken. 9. Add the chicken broth, thyme, and bay leaves. 10. Cover the pot and bake in the oven for 2-2.5 hours, until the chicken is tender."
+        },
+        {
+          "name": "Beef Bourguignon",
+          "ingredients": [
+            "Beef",
+            "Carrots",
+            "Onion",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. Cut the beef into 1-inch pieces and season with salt and pepper. 3. Heat some oil in a Dutch oven or oven-safe pot over medium-high heat. Brown the beef in batches, about 5-7 minutes per batch. Remove the beef and set aside. 4. Add the onions and carrots to the pot and cook until the onions are softened, about 5 minutes. 5. Add the garlic and cook for another minute. 6. Add the beef back to the pot and pour in enough red wine to cover the beef. 7. Add the beef broth, thyme, and bay leaves. 8. Cover the pot and bake in the oven for 2.5-3 hours, until the beef is tender. 9. Saute the mushrooms in a separate pan until golden brown. 10. Add the mushrooms to the pot and serve hot."
+        },
+        {
+          "name": "Ratatouille",
+          "ingredients": [
+            "Eggplant",
+            "Zucchini",
+            "Bell Pepper",
+            "Onion",
+            "Tomatoes"
+          ],
+          "cookingMethod": "1. Preheat the oven to 375°F (190°C). 2. Slice the eggplant, zucchini, bell pepper, and onion into 1/4-inch slices. 3. Slice the tomatoes into 1/2-inch slices. 4. Arrange the sliced vegetables in a baking dish in a spiral pattern, starting from the outside and working your way in. 5. Drizzle some olive oil over the vegetables and season with salt and pepper. 6. Cover the baking dish with foil and bake in the oven for 45 minutes. 7. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and lightly browned. 8. Serve hot or at room temperature."
+        }
+      ],
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/2Ky6Pk1/Pierre-Herm.jpg",
+    "chef_name": "Pierre Hermé",
+    "experience": "29 Years",
+    "recipes_number": 30,
+    "likes": 90000,
+    "bio": "Pierre Hermé is a French pastry chef and chocolatier. He is known for his innovative flavor combinations and has been named World's Best Pastry Chef by the World's 50 Best Restaurants. He has also authored several cookbooks on pastry and chocolate.",
+    "recipes": [
+        {
+          "name": "Coq au Vin",
+          "ingredients": [
+            "Chicken",
+            "Bacon",
+            "Mushrooms",
+            "Onion",
+            "Garlic"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. In a large Dutch oven or oven-safe pot, cook the bacon over medium heat until crispy. 3. Remove the bacon with a slotted spoon and set aside. 4. Season the chicken with salt and pepper and add it to the pot with the bacon fat. Brown the chicken on all sides, about 5 minutes per side. 5. Remove the chicken and set aside. 6. Add the mushrooms, onions, and garlic to the pot and cook until softened, about 5 minutes. 7. Add the bacon back to the pot and stir to combine. 8. Add the chicken back to the pot and pour in enough red wine to cover the chicken. 9. Add the chicken broth, thyme, and bay leaves. 10. Cover the pot and bake in the oven for 2-2.5 hours, until the chicken is tender."
+        },
+        {
+          "name": "Beef Bourguignon",
+          "ingredients": [
+            "Beef",
+            "Carrots",
+            "Onion",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. Cut the beef into 1-inch pieces and season with salt and pepper. 3. Heat some oil in a Dutch oven or oven-safe pot over medium-high heat. Brown the beef in batches, about 5-7 minutes per batch. Remove the beef and set aside. 4. Add the onions and carrots to the pot and cook until the onions are softened, about 5 minutes. 5. Add the garlic and cook for another minute. 6. Add the beef back to the pot and pour in enough red wine to cover the beef. 7. Add the beef broth, thyme, and bay leaves. 8. Cover the pot and bake in the oven for 2.5-3 hours, until the beef is tender. 9. Saute the mushrooms in a separate pan until golden brown. 10. Add the mushrooms to the pot and serve hot."
+        },
+        {
+          "name": "Ratatouille",
+          "ingredients": [
+            "Eggplant",
+            "Zucchini",
+            "Bell Pepper",
+            "Onion",
+            "Tomatoes"
+          ],
+          "cookingMethod": "1. Preheat the oven to 375°F (190°C). 2. Slice the eggplant, zucchini, bell pepper, and onion into 1/4-inch slices. 3. Slice the tomatoes into 1/2-inch slices. 4. Arrange the sliced vegetables in a baking dish in a spiral pattern, starting from the outside and working your way in. 5. Drizzle some olive oil over the vegetables and season with salt and pepper. 6. Cover the baking dish with foil and bake in the oven for 45 minutes. 7. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and lightly browned. 8. Serve hot or at room temperature."
+        }
+      ],
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/rGs0HBP/Jacques-Torres.jpg",
+    "chef_name": "Jacques Torres",
+    "experience": "40 Years",
+    "recipes_number": 37,
+    "likes": 40000,
+    "bio": "Jacques Torres is a French pastry chef and chocolatier. He is known for his expertise in chocolate-making and has been awarded numerous accolades for his confections. He also hosts a cooking show on Food Network.",
+    "recipes": [
+        {
+          "name": "Coq au Vin",
+          "ingredients": [
+            "Chicken",
+            "Bacon",
+            "Mushrooms",
+            "Onion",
+            "Garlic"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. In a large Dutch oven or oven-safe pot, cook the bacon over medium heat until crispy. 3. Remove the bacon with a slotted spoon and set aside. 4. Season the chicken with salt and pepper and add it to the pot with the bacon fat. Brown the chicken on all sides, about 5 minutes per side. 5. Remove the chicken and set aside. 6. Add the mushrooms, onions, and garlic to the pot and cook until softened, about 5 minutes. 7. Add the bacon back to the pot and stir to combine. 8. Add the chicken back to the pot and pour in enough red wine to cover the chicken. 9. Add the chicken broth, thyme, and bay leaves. 10. Cover the pot and bake in the oven for 2-2.5 hours, until the chicken is tender."
+        },
+        {
+          "name": "Beef Bourguignon",
+          "ingredients": [
+            "Beef",
+            "Carrots",
+            "Onion",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. Cut the beef into 1-inch pieces and season with salt and pepper. 3. Heat some oil in a Dutch oven or oven-safe pot over medium-high heat. Brown the beef in batches, about 5-7 minutes per batch. Remove the beef and set aside. 4. Add the onions and carrots to the pot and cook until the onions are softened, about 5 minutes. 5. Add the garlic and cook for another minute. 6. Add the beef back to the pot and pour in enough red wine to cover the beef. 7. Add the beef broth, thyme, and bay leaves. 8. Cover the pot and bake in the oven for 2.5-3 hours, until the beef is tender. 9. Saute the mushrooms in a separate pan until golden brown. 10. Add the mushrooms to the pot and serve hot."
+        },
+        {
+          "name": "Ratatouille",
+          "ingredients": [
+            "Eggplant",
+            "Zucchini",
+            "Bell Pepper",
+            "Onion",
+            "Tomatoes"
+          ],
+          "cookingMethod": "1. Preheat the oven to 375°F (190°C). 2. Slice the eggplant, zucchini, bell pepper, and onion into 1/4-inch slices. 3. Slice the tomatoes into 1/2-inch slices. 4. Arrange the sliced vegetables in a baking dish in a spiral pattern, starting from the outside and working your way in. 5. Drizzle some olive oil over the vegetables and season with salt and pepper. 6. Cover the baking dish with foil and bake in the oven for 45 minutes. 7. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and lightly browned. 8. Serve hot or at room temperature."
+        }
+      ],
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/52QjtrQ/Guy-Savoy.jpg",
+    "chef_name": "Guy Savoy",
+    "experience": "38 Years",
+    "recipes_number": 42,
+    "likes": 83000,
+    "bio": "Guy Savoy is a French chef who has been awarded three Michelin stars for his cooking. He is known for his modern take on French cuisine and has opened several restaurants around the world, including in Las Vegas and Singapore.",
+    "recipes": [
+        {
+          "name": "Coq au Vin",
+          "ingredients": [
+            "Chicken",
+            "Bacon",
+            "Mushrooms",
+            "Onion",
+            "Garlic"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. In a large Dutch oven or oven-safe pot, cook the bacon over medium heat until crispy. 3. Remove the bacon with a slotted spoon and set aside. 4. Season the chicken with salt and pepper and add it to the pot with the bacon fat. Brown the chicken on all sides, about 5 minutes per side. 5. Remove the chicken and set aside. 6. Add the mushrooms, onions, and garlic to the pot and cook until softened, about 5 minutes. 7. Add the bacon back to the pot and stir to combine. 8. Add the chicken back to the pot and pour in enough red wine to cover the chicken. 9. Add the chicken broth, thyme, and bay leaves. 10. Cover the pot and bake in the oven for 2-2.5 hours, until the chicken is tender."
+        },
+        {
+          "name": "Beef Bourguignon",
+          "ingredients": [
+            "Beef",
+            "Carrots",
+            "Onion",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. Cut the beef into 1-inch pieces and season with salt and pepper. 3. Heat some oil in a Dutch oven or oven-safe pot over medium-high heat. Brown the beef in batches, about 5-7 minutes per batch. Remove the beef and set aside. 4. Add the onions and carrots to the pot and cook until the onions are softened, about 5 minutes. 5. Add the garlic and cook for another minute. 6. Add the beef back to the pot and pour in enough red wine to cover the beef. 7. Add the beef broth, thyme, and bay leaves. 8. Cover the pot and bake in the oven for 2.5-3 hours, until the beef is tender. 9. Saute the mushrooms in a separate pan until golden brown. 10. Add the mushrooms to the pot and serve hot."
+        },
+        {
+          "name": "Ratatouille",
+          "ingredients": [
+            "Eggplant",
+            "Zucchini",
+            "Bell Pepper",
+            "Onion",
+            "Tomatoes"
+          ],
+          "cookingMethod": "1. Preheat the oven to 375°F (190°C). 2. Slice the eggplant, zucchini, bell pepper, and onion into 1/4-inch slices. 3. Slice the tomatoes into 1/2-inch slices. 4. Arrange the sliced vegetables in a baking dish in a spiral pattern, starting from the outside and working your way in. 5. Drizzle some olive oil over the vegetables and season with salt and pepper. 6. Cover the baking dish with foil and bake in the oven for 45 minutes. 7. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and lightly browned. 8. Serve hot or at room temperature."
+        }
+      ],
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/Zz7N8GZ/Alain-Passard.jpg",
+    "chef_name": "Alain Passard",
+    "experience": "35 Years",
+    "recipes_number": 25,
+    "likes": 66000,
+    "bio": "Alain Passard is a French chef and owner of the restaurant L'Arpège in Paris. He is known for his vegetable-focused cuisine and has been awarded three Michelin stars for his cooking. He also operates his own organic farm to supply ingredients for his restaurant.",
+    "recipes": [
+        {
+          "name": "Coq au Vin",
+          "ingredients": [
+            "Chicken",
+            "Bacon",
+            "Mushrooms",
+            "Onion",
+            "Garlic"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. In a large Dutch oven or oven-safe pot, cook the bacon over medium heat until crispy. 3. Remove the bacon with a slotted spoon and set aside. 4. Season the chicken with salt and pepper and add it to the pot with the bacon fat. Brown the chicken on all sides, about 5 minutes per side. 5. Remove the chicken and set aside. 6. Add the mushrooms, onions, and garlic to the pot and cook until softened, about 5 minutes. 7. Add the bacon back to the pot and stir to combine. 8. Add the chicken back to the pot and pour in enough red wine to cover the chicken. 9. Add the chicken broth, thyme, and bay leaves. 10. Cover the pot and bake in the oven for 2-2.5 hours, until the chicken is tender."
+        },
+        {
+          "name": "Beef Bourguignon",
+          "ingredients": [
+            "Beef",
+            "Carrots",
+            "Onion",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "cookingMethod": "1. Preheat the oven to 325°F (165°C). 2. Cut the beef into 1-inch pieces and season with salt and pepper. 3. Heat some oil in a Dutch oven or oven-safe pot over medium-high heat. Brown the beef in batches, about 5-7 minutes per batch. Remove the beef and set aside. 4. Add the onions and carrots to the pot and cook until the onions are softened, about 5 minutes. 5. Add the garlic and cook for another minute. 6. Add the beef back to the pot and pour in enough red wine to cover the beef. 7. Add the beef broth, thyme, and bay leaves. 8. Cover the pot and bake in the oven for 2.5-3 hours, until the beef is tender. 9. Saute the mushrooms in a separate pan until golden brown. 10. Add the mushrooms to the pot and serve hot."
+        },
+        {
+          "name": "Ratatouille",
+          "ingredients": [
+            "Eggplant",
+            "Zucchini",
+            "Bell Pepper",
+            "Onion",
+            "Tomatoes"
+          ],
+          "cookingMethod": "1. Preheat the oven to 375°F (190°C). 2. Slice the eggplant, zucchini, bell pepper, and onion into 1/4-inch slices. 3. Slice the tomatoes into 1/2-inch slices. 4. Arrange the sliced vegetables in a baking dish in a spiral pattern, starting from the outside and working your way in. 5. Drizzle some olive oil over the vegetables and season with salt and pepper. 6. Cover the baking dish with foil and bake in the oven for 45 minutes. 7. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and lightly browned. 8. Serve hot or at room temperature."
+        }
+      ],
+    "rating": 4.2
+  }
+]
