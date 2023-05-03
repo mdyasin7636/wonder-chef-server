@@ -11,6 +11,12 @@ app.get('/', (req, res) => {
     res.send(chefs);
 })
 
+app.get('/:id', (req, res) => {
+    const id = req.params.id;
+    const item = chefs.find(chef => chef.id == id)
+    res.send(item)
+})
+
 app.get('/', (req, res) => {
     res.send('Server is running');
 })
