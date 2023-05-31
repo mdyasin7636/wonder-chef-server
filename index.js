@@ -22,5 +22,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Chef API is running on port: ${port}`)
+    console.log(`Chef API is Running on port: ${port}`)
 })
